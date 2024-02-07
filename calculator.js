@@ -39,3 +39,4 @@ function calculator(a, b, operation){
 // const result = calculator(5,7, 'multiply');
 const result = calculator(5,7, 'divide');
 console.log(result)
+
